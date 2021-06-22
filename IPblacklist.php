@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class IPblacklist
 {
 
-    private $bloquedIPs = [];
+    private $blockedIPs = [];
 
     /**
      * Handle an incoming request.
